@@ -1,0 +1,22 @@
+{
+  "wheel_id": 940,
+  "structure": "umbrella",
+  "slug": "toowoombaretainingwalls-114",
+  "project": "retaining-wall-repairs-toowoomba-signs-you-need-2776331cc0e429a",
+  "parent_t1_ref": "toowoombaretainingwalls-156",
+  "node_role": "feeder",
+  "money_target": "toowoombaretainingwalls.com",
+  "primary_kw": "retaining wall repairs toowoomba signs you need",
+  "intended_url": "http://retaining-wall-repairs-toowoomba-signs-you-need-2776331cc0e429a.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "7b5273819cd02fb3",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-repairs-toowoomba-how-to-choose-4425442c665a8721/",
+      "anchor": "Retaining Wall Repairs Toowoomba How to Choose: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
